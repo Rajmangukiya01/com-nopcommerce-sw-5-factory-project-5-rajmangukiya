@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Top Menu Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.293">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToElectronics" time="1.103" classname="com.nopcommerce.demo.testsuite.TopMenuPageTest" />
+                <testcase name="verifyUserShouldNavigateToComputer" time="1.121" classname="com.nopcommerce.demo.testsuite.TopMenuPageTest" />
+                <testcase name="verifyUserShouldNavigateToApparel" time="1.069" classname="com.nopcommerce.demo.testsuite.TopMenuPageTest" />
+      
+</testsuite>
